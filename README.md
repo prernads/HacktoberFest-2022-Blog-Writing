@@ -13,14 +13,31 @@ Contributing to Open Source isn't just for Technical Folks who want to write Cod
 
 Hacktoberfest welcomes people of any experience level to participate, and Low-Code and Non-Code Contributions are fantastic choices for folks who don't have a lot of Technical Knowledge.
 
-This repository is based on Blog Writing. We encourage students to write a blog on the themes that we have given and make a PR for that in the respective folder of the themes.
+This repo is aimed at people who are new to Open-Source, earn and learn from that experience.
 
+This repository is based on Blog Writing. We encourage students to write a documentation on the given themes and make a PR for that.
+
+## How to contibute your Blog?
+- You have to write a Blog on any of the given themes.
+- You have to write your Blog in a MarkDown (MD) file. 
+- Your markdown file should be named as `YourGithubUsername.md`. eg. ShaileshKumar007.md
+- You have to submit a MarkDown file in the repository.
+- Your Blog should be properly formatted. In order to learn how to make a Markdown file, you can visit [this link](https://www.markdownguide.org/cheat-sheet/) to learn about markdown.
+
+## Themes
+- Is 5G good for India? 
+- Is Electric Vehicle Sector going to be a leader in India?
+- Is Privacy a myth?
+- Future of Crypto-Currency in India?
+
+## Guidelines to be followed while writing Documentation
+- Minimum words of your blog should be 300.
+- Pull request will be accepted on the basis of the quality of your Documentation.
 
 ### Contributing
 Please read [CONTRIBUTING.md](/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](/CODE_OF_CONDUCT.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ### Rules
-* Pull Requests are accepted on **First Come First Serve Basis**.
 * Read the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 * Respect people.
 * Be friendly, helpful, and patient.
